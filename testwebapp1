@@ -1,0 +1,19 @@
+<p>
+    <label for="marine">
+        How does this song feel like?
+    </label>
+
+    <br/>
+<br/>
+    <audio
+        id="marine"
+        controls
+        src="http://www.noiseaddicts.com/samples_1w72b820/2544.mp3">
+        Your browser does not support the <code>audio</code> element.
+    </audio>
+   <br/>
+    <br/>
+    <label for="placeholder">
+        This could be the placeholder for IT strategy talks!
+    </label>
+</p>
